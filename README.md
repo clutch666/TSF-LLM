@@ -7,3 +7,5 @@
 -诊断实验报告<https://rcn2ie8ahrv5.feishu.cn/wiki/MXokwU0JKiaEG1kUAicc2ucjnRd>
 
 -V1实验结果<https://rcn2ie8ahrv5.feishu.cn/wiki/O7eKwtzIhiWgj4ktNxxcKL6znuf>
+
+-v2实验结果<https://rcn2ie8ahrv5.feishu.cn/wiki/YtniwCZCqimTIukwHRecjulDnge>
